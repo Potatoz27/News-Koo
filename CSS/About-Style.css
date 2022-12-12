@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  width: 100vh auto;
+  background-position: center;
+  background-size: cover;
+  position: auto;
+}
+
+.background-color {
+  background-color: rgba(250, 250, 250, 0.5);
+ 
+  background-size: cover;
+  height: fit-content;
+}
+
+nav {
+  display: flex;
+  padding: 2% 6%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav img {
+  width: 200px;
+}
+
+.nav-links {
+  flex: 1;
+  text-align: right;
+}
+
+.nav-links ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 8px 12px;
+  position: relative;
+}
+
+.lin-links ul li a {
+  color: #000;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.about {
+  margin: 5p;
+}
+
+.aboutUs {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 69px;
+}
+
+.text1 {
+  margin-top: 10%;
+  font-size: 50px;
+  font-weight: 40;
+  color: green;
+}
+
+.aboutUs p {
+  font-size: 20px;
+}
+
+h3 {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 45px;
+}
+
+.img {
+  height: 350px;
+  position: relative;
+  margin: 15px;
+}
+.col {
+  margin: 5%;
+  display:inline-flex;
+}
+
+
+
+
+
+
+
+
+.dev {
+  width: 25%;
+  border-radius: 10px;
+}
+.middle {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.card {
+  margin: 10px;
+}
+
+.top {
+  background-color: rgba(227, 255, 231, 0.7);
+  margin: 10%;
+  padding-top: -90%;
+  font-size: 20px;
+}
+
+
+
+
